@@ -26,8 +26,8 @@ html{
 }
 .loader p{
     font-weight: bolder;
-    color: #005ebd;
-    font-family: 'Lobster', cursive;
+    color: #410000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .circle{
     margin: 2em auto;
