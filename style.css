@@ -246,6 +246,17 @@ nav li a:hover{
     line-height: 1.5em;
     font-weight: 120;
 }
+.onlyfans{
+    font-family: poppins;
+    font-style: bold;
+    text-align: justify;
+    display: inline-block;
+}
+.mugiwara{
+    color: yellow;
+
+}
+
 .oi{
     font-family: poppins;
 }
