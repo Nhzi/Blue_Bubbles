@@ -26,8 +26,6 @@ window.onload = () => {
         else{
             moveUp.classList.remove("showArrow");
         }
-
-
         let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 
         if (scrollTop > lastScrollTop && scrollTop > threshold) {

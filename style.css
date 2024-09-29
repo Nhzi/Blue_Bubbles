@@ -246,6 +246,9 @@ nav li a:hover{
     line-height: 1.5em;
     font-weight: 120;
 }
+.oi{
+    font-family: poppins;
+}
 .leftHomeSect button{
     font-family: 'Fira Sans', sans-serif;
     cursor: pointer;
