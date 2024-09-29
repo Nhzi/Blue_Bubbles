@@ -1,2 +1,2 @@
 # Blue_Bubbles
-An improvement to The existing Blue-Bubble LLM code.
+Selectly is an AI-powered recruitment platform tailored for small and medium-sized businesses. It streamlines the hiring process by automatically screening and ranking resumes based on job criteria, integrating with calendars for seamless interview scheduling, and providing customizable job descriptions to attract the right candidates. With real-time collaboration tools, hiring teams can easily share notes and insights. The platform also features an analytics dashboard for tracking hiring metrics and integrates with multiple job boards for broader reach. Overall, Selectly simplifies recruitment, helping businesses find the right talent efficiently.
